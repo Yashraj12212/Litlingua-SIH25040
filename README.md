@@ -1,4 +1,4 @@
-# LitLingua – SIH25040
+# LitLingua – SIH25240
 
 ## Project Overview
 LitLingua is an AI-powered OCR and translation pipeline that converts printed Nepali and Sinhalese literature into English.  
@@ -33,7 +33,7 @@ It aims to bridge the language gap and preserve South Asian literary heritage by
 ```bash
 # Clone the repository
 git clone https://github.com/Yashraj12212/Litlingua-SIH25040.git
-cd Litlingua-SIH25040
+cd Litlingua-SIH25240
 
 # Create a virtual environment
 python -m venv venv
@@ -69,7 +69,7 @@ python main.py
 
 ```
 
-Litlingua-SIH25040/
+Litlingua-SIH25240/
 │
 ├── data/                 # Input PDFs or images
 ├── output/               # Translated text or reports
